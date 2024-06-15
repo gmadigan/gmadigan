@@ -1,26 +1,25 @@
-# Welcome to Gabriel's GitHub!
-___
+## 👋🏻 Welcome to my GitHub!
 
-## Who is Gabriel?
+Hi, I'm Gabriel. A data scientist and former CERN particle physicist. My expertise is in extracting weak signals in large, noisy data by building custom ML models in python.
 
-Hi, I'm Gabriel, and I am a data scientist.
+### 🔭 What I am building
 
-## What is Gabriel working on?
+Here is my portfolio containing past and current projects.
 
-### Projects
+(Coming soon!)
 
-### Papers
+### 🛠 My favorite tools
 
-## What are Gabriel's favorite tools?
+These are the languages, libraries, and tools I reach for when I start exploring data.
 
 * Languages: Python, SQL, C++
 * Machine Learning: PyTorch, Keras, Scikit-learn, spaCy, Gensim (word2vec)
 * Scientific Computing: Pandas, NumPy, Scipy, Jupyter Notebooks, ROOT/PyROOT (CERN)
 * Data Visualization: Matplotlib, Seaborn, ROOT/PyROOT (CERN)
 
-## How to reach Gabriel
+### 🤝🏻 Let's connect
 
-Send me a message on [LinkedIn](https://www.linkedin.com/in/gabrielmadigan/).
+My inbox is always open! Send me a message on [LinkedIn](https://www.linkedin.com/in/gabrielmadigan/).
 
 <!--
 **gmadigan/gmadigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
