@@ -11,9 +11,7 @@ Hi, I'm Gabriel. A data scientist and former CERN particle physicist. My experti
 
 ### 🔭 What I am building
 
-Here is my portfolio showcasing past and current projects.
-
-[gabriel.github.io](https://gmadigan.github.io/)
+Here is my [portfolio](https://gmadigan.github.io/) showcasing past and current projects.
 
 ### 🛠 My favorite tools
 
