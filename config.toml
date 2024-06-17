@@ -1,0 +1,9 @@
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/gabrielmadigan/"
+
+ [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "https://gmadigan.github.io/"
