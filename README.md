@@ -1,9 +1,8 @@
-## 👋🏻 Welcome to my GitHub!
-
-Hi, I'm Gabriel. A data scientist and former CERN particle physicist. My expertise is in extracting weak signals in large, noisy data by building custom ML models in python.
+## 👋🏻 Welcome!
 
 ### ⏱ Quick about me
 
+* 🇺🇸 From the SF Bay Area, currently reside on the US East Coast
 * 👨🏻‍🎓 PhD in physics with 5 years at CERN searching for new particles in data from the LHC (world's highest energy acceleratior)
 * 🐍 10 years of Python development + collaboration via GitHub
 * 🤖 5 years training, testing, and applying machine learning models to extract weak signals in noisy data
