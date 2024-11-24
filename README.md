@@ -2,24 +2,34 @@
 
 ### ⏱ Quick about me
 
-* 🇺🇸 From the SF Bay Area, currently reside on the US East Coast
-* 👨🏻‍🎓 PhD in physics, 5+ years at CERN searching for new particles in data from the LHC (world's highest energy acceleratior)
-* 🐍 10 years of Python development, collaboration via GitHub
-* 🤖 5 years training, testing, and applying machine learning models to extract weak signals in noisy data
-* 📖 Co-authored a [peer-reviewed paper](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.109.112003) searching for new physics with the CMS detector at CERN
+* 🇺🇸 From the CA Bay Area, currently on the US East Coast
+* 👨🏻‍💻 Machine Learning Engineer at Entefy Inc. - designing, building, and deploying bespoke ML models for enterprise clients
+* 👨🏻‍🎓 PhD in physics, 5+ years at CERN searching for new particles in TB of data from the LHC (world's highest energy accelerator)
+* 🐍 10 years of Python expertise developing data pipelines and performing statistical analysis
+* 📖 Co-authored a [peer-reviewed paper](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.109.112003) searching for new physics with the CMS detector at CERN's LHC
 
-### 🔭 What I am building
+### 🤖 What I am building
 
 Here is my [portfolio](https://gmadigan.github.io/) showcasing past and current projects.
+
+I have hands-on development experience in the following ML domains:
+
+* Generative AI (RAG, LLMs)
+* Deep learning (NNs, RNNs, LSTM, CNNs, encoder-decoders),
+* Natural language processing
+* Support vector machines
+* Boosted decision trees (gradient boost, XGBoost)
+* Classification
+* Regression
+* Fine-tuning (QLoRa, grid/random search)
 
 ### 🛠 My favorite tools
 
 These are the languages, libraries, and tools I reach for when I start exploring data.
 
 * Languages: Python, SQL, C++
-* Machine Learning: PyTorch, Keras, Scikit-learn, spaCy, Gensim (word2vec)
-* Scientific Computing: Pandas, NumPy, Scipy, Jupyter Notebooks, ROOT/PyROOT (CERN)
-* Data Visualization: Matplotlib, Seaborn, ROOT/PyROOT (CERN)
+* Machine Learning: PyTorch, Hugging Face, Langchain, SentenceTransformers, Unsloth, Scikit-learn, Keras, spaCy, Gensim, Ray Tune, TorchMetrics
+* Data Science: Pandas, NumPy, Scipy, Imbalanced-learn, Matplotlib, Seaborn, Jupyter Notebooks
 
 ### 🤝🏻 Let's connect
 
