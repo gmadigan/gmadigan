@@ -10,18 +10,12 @@
 
 ### 🤖 What I am building
 
-Here is my [portfolio](https://gmadigan.github.io/) showcasing past and current projects.
+Here is my [portfolio](https://gmadigan.github.io/) showcasing past and current projects. I have hands-on development experience with:
 
-I have hands-on development experience in the following ML domains:
-
-* Generative AI (RAG, LLMs)
-* Deep learning (NNs, RNNs, LSTM, CNNs, encoder-decoders),
-* Natural language processing
-* Support vector machines
-* Boosted decision trees (gradient boost, XGBoost)
-* Classification
-* Regression
-* Fine-tuning (QLoRa, grid/random search)
+* Generative AI: RAG, LLMs
+* Deep learning: NNs, RNNs, LSTM, CNNs, encoder-decoders
+* Traditional machine learning: NLP, SVMs, BDTs (gradient boost, XGBoost), classification, regression
+* Fine-tuning: QLoRa, grid/random search
 
 ### 🛠 My favorite tools
 
