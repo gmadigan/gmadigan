@@ -6,7 +6,7 @@
 * 👨🏻‍💻 Machine Learning Engineer at Entefy Inc. - designing, building, and deploying bespoke ML models for enterprise clients
 * 👨🏻‍🎓 PhD in physics, 5 years at CERN searching for new particles with the LHC (world's highest energy particle accelerator)
 * 🐍 10 years of Python expertise developing data pipelines and performing statistical analysis on TB of data
-* 📖 Co-authored a [peer-reviewed paper](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.109.112003) covering a search I led for exotic new physics with the CMS collaboration at CERN's LHC
+* 📖 Co-authored a [peer-reviewed paper](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.109.112003) on a search I led for exotic new physics with the CMS collaboration at CERN's LHC
 
 ### 🤖 What I am building
 
