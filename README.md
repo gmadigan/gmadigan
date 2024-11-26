@@ -4,7 +4,7 @@
 
 * 🇺🇸 From the CA Bay Area, currently on the US East Coast
 * 👨🏻‍💻 Machine Learning Engineer at Entefy Inc. - designing, building, and deploying bespoke ML models for enterprise clients
-* 👨🏻‍🎓 PhD in physics, 5+ years at CERN searching for new particles in TB of data from the LHC (world's highest energy accelerator)
+* 👨🏻‍🎓 PhD in physics, 5+ years at CERN searching for new particles in TB of data with the LHC: the world's largest and highest energy particle accelerator
 * 🐍 10 years of Python expertise developing data pipelines and performing statistical analysis
 * 📖 Co-authored a [peer-reviewed paper](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.109.112003) searching for new physics with the CMS detector at CERN's LHC
 
