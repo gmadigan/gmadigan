@@ -2,11 +2,11 @@
 
 ### ⏱ Quick about me
 
-* 🇺🇸 From the CA Bay Area, currently on the US East Coast
-* 👨🏻‍💻 AI Research Engineer at Entefy Inc. - designing, building, and deploying bespoke AI agents and ML models for enterprise clients
-* 👨🏻‍🎓 PhD in physics, 5 years at CERN searching for new particles with the LHC (world's highest energy particle accelerator)
-* 🐍 10+ years of Python expertise developing data pipelines and performing statistical analysis on TB of data
-* 📖 Co-authored a [peer-reviewed paper](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.109.112003) covering a search I led for a new elementary particle with the CMS collaboration at CERN's Large Hadron Collider
+* 👨🏻‍💻 AI Research Engineer at Entefy - designing, building, and deploying AI agents and ML models for enterprise clients
+* 👨🏻‍🎓 PhD in physics - 5 years at CERN searching for new particles with the LHC (world's highest energy particle accelerator)
+* 🐍 Python expertise - 10+ years of developing data pipelines and performing statistical analysis on TB of data
+* 📖 Published author - led a search for exotic new physics with the CMS collaboration at CERN's LHC, published findings in a [peer-reviewed paper](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.109.112003)
+* 🇺🇸 CA Bay Area native - currently living on the US East Coast
 
 ### 🤖 What I am building
 
